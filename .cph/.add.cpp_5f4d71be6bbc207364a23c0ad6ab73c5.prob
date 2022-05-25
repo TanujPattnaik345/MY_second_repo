@@ -1,0 +1,1 @@
+{"name":"Local: add","url":"c:\\Users\\TANUG\\Desktop\\git\\c code\\add.cpp","tests":[{"id":1647609162336,"input":"17\nH....H...H....HHH","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\TANUG\\Desktop\\git\\c code\\add.cpp","group":"local","local":true}

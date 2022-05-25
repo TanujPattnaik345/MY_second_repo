@@ -16,7 +16,7 @@ class derived : public Base
 {
 
  public:
-   virtual void display()
+  void display()
     {
         cout << "\nThe display function of the derived class" << endl;
     }

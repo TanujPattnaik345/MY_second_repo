@@ -1,5 +1,2 @@
-
-    //  for(int i=0;i<e;i++){
-    //     cout<<arr[i]<<" ";
-    //     cout<<endl;
-    // }
+map<char,int> mymap;
+// map<char,int>::iterator it;
